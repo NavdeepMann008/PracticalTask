@@ -39,6 +39,7 @@ It runs on **localhost:8080** and swagger can be used to access API documentatio
 ```
 http://localhost:8080/swagger-ui/index.html#/
 ```
+![Screenshot (2)](https://github.com/NavdeepMann008/PracticalTask/assets/167414404/d0bd9f8e-1ebd-4a54-89c3-7fe0c78a0668)
 
 
 ## Run Unit Test
